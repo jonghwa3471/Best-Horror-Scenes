@@ -1,3 +1,3 @@
-# SCSS-study
+# Best-Horror-Scenes
 
 Best-Horror-Scenes
